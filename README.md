@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 🔭 I’m currently working on [Luxora](https://github.com/luxora) – a luxury clothing e-commerce project.
-- 🌱 Learning **Next.js 14, Stripe, Firebase**.
+- 🌱 Learning **Next.js, Stripe, Firebase**.
 - 👨‍💻 Passionate about **MERN stack, AI-powered tools, and full‑stack development**.
 - 💬 Ask me about **React, Node.js, Firebase, GitHub Actions**.
 - 📫 Reach me at: [nomshamas@gmail.com](mailto:nomshamas@gmail.com)
@@ -22,8 +22,6 @@
 ## 📊 GitHub Stats
 ![Nouman's GitHub stats](https://github-readme-stats.vercel.app/api?username=nomshamas&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nomshamas&layout=compact&theme=radical)
-![Nouman's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nomshamas&theme=github-compact)
-![trophy](https://github-profile-trophy.vercel.app/?username=nomshamas&theme=onedark)
 ![Visitor Count](https://komarev.com/ghpvc/?username=nomshamas&color=blue)
 
 
@@ -31,7 +29,7 @@
 
 ## 📌 Featured Projects
 - 🎯 [Luxora](https://github.com/luxora) – Clothing e-commerce with rentals
-- 📱 [AI Hairstyle App](https://github.com/portfolio) – Try on hairstyles using AI
+- 📱 [Barbers & Cuts](https://github.com/barbers-n-cuts) – Try on hairstyles using AI
 - 📅 [Google Calendar Clone](https://github.com/google-calender-clone) – React + Node full-stack calendar
 
 ---
